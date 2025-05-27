@@ -1,0 +1,1 @@
+import{j as r,c as t,r as e}from"./index-BPdsUk1W.js";function o(){return r.jsx(r.Fragment,{children:"Hello World"})}t.createRoot(document.getElementById("root")).render(r.jsx(e.StrictMode,{children:r.jsx(o,{})}));
